@@ -10,6 +10,8 @@ import UIKit
 
 class ResultsViewController: UIViewController {
 
+    
+    
     var billValue: Double?;
     var peopleCount: Int?;
     var tip: String?;
